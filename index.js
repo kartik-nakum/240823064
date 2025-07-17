@@ -41,3 +41,35 @@ for(let i=0;i<=n;i++)
 }
 
 //5
+let n1=9
+let result=1
+for(let i=1;i<=n1;i++)
+{
+  result*=i
+}
+console.log(result)
+
+//6
+let number=3
+let rows=10
+for(let i=1;i<=rows;i++)
+{
+    console.log(number +"x"+i+"="+(number*i))
+}
+
+//7
+let n3=1234
+let result1=n3.toString().split('').reverse().join()
+console.log(result1)
+
+//8
+let num1=121
+let rev=num1.toString().split('').reverse().join('')
+if(num1 == rev)
+{
+    console.log(`${num1} is palindrome`)
+}else{
+    console.log(`${num1} is not palindrome`)
+}
+
+//9
