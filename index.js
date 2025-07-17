@@ -30,3 +30,14 @@ if (year % 4 == 0){
 }else{
     console.log(`${year}year is no leap`)
 }
+
+//4
+let n=5
+let sum=0
+for(let i=0;i<=n;i++)
+   sum+=i
+{
+    console.log(`sum of first ${n}natural number is ${num}`)
+}
+
+//5
