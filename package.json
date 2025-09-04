@@ -1,0 +1,25 @@
+{
+  "name": "240823064",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartik-nakum/240823064.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartik-nakum/240823064/issues"
+  },
+  "homepage": "https://github.com/kartik-nakum/240823064#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "moment": "^2.30.1",
+    "mongoose": "^8.18.0"
+  }
+}
