@@ -1,0 +1,17 @@
+{
+  "name": "validationfile",
+  "version": "1.0.0",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "joi": "^18.0.1"
+  }
+}
