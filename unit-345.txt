@@ -1,0 +1,36 @@
+
+---------------uniy 3----------------
+1. Explain how node js connect with databases using SQL or no SQL. Give important library names and its  implementation steps with examples.(example of connectivity)
+
+2. Describe working and advantages ORM.How to Sequelize and mongoose different approaches?(difference of it).
+
+3. Explain implementation of sequelize ORM in node js application for performing CRUD operations with a restful API.
+
+4. Explain implementation of mongoose ORM in node js application for performing CRUD operations with a restful API.
+
+5. What is the joi library ?Why is it an important node js backend application?
+
+6. Describe the importance of proper error handling in node js application.
+-------------Unit4-----------------
+
+7. What is a web socket?how does socket I/O simplify realtime communication in node js application.
+
+8. Describe how chat application works using socket I/O? Implement it with handling of connection single events and multiple events.
+
+9. Explain the key security concerns in real time application.Give all different types of methods.
+
+10. Give different types of real-time web socket applications with its description.(example as per marks)
+
+11. Explain socket I/O event driven architecture using emit and on methods.
+
+-----------unit 5---------
+
+12. Explain containerise with docker and deployment on cloud platform.
+
+13. Explain the role of PM2 in node js application management. how does it help in monitoring and scaling applications ( with commands).
+
+14. Write a descriptive note on CICD with node js application in different stages( build, test, deploy).
+
+15. Explain version control and collaborative work flow in GitHub for node js application. describe branch, pull request, commit, push and code review.
+
+16. Describe how load balancing works and its importance with features.

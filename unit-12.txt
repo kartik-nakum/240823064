@@ -1,0 +1,18 @@
+1.explain history and evolution of node.js.
+
+2.why we use node.js for server side development.
+
+3.explain the advantages and features of node.js.
+
+4.explain in detail the architecture of node.js with its diagram.
+
+5.demonstrate to walking with files operations like write and read using fs module.
+
+6.an example of express.js with features of it.
+
+7.what is routing in express.js implement different http methods.
+
+8.build an application for restful apis with crud operation using route controller and validations.
+
+9.what is middleware how it is usefull for authentication and authorisation with basic example.
+

@@ -1,0 +1,12 @@
+node init -y
+node index.js
+
+
+
+git clone yourreop
+
+git add .
+
+git commit -m"helllo"
+git push
+git pull
